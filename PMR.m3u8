@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TSV" tvg-name="ТСВ" tvg-logo="ICO\ТСВ.png" group-title="Приднестровье",ТСВ
+#EXTINF:-1 tvg-id="TSV" tvg-name="ТСВ" tvg-logo="https://raw.githubusercontent.com/FoxStudio24/IPTV/refs/heads/main/ICO/ТСВ.png" group-title="Приднестровье",ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 
 #EXTINF:-1 tvg-id="BTV" tvg-name="БТВ" tvg-logo="https://btv.md/wp-content/uploads/2020/06/btv_logo.png" group-title="Приднестровье",БТВ

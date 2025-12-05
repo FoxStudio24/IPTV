@@ -10,9 +10,9 @@ http://cdn.admuspeh.my/8001/video.m3u8?token=adpwFr4Pwf3yr53j
 http://cdn.admuspeh.my/8002/video.m3u8?token=adpwFr4Pwf3yr53j
 
 
-#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://karnei4.github.io/convert/img/8711.png" group-title="Основной",НТВ
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20+0%20(%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2).png" catchup="flussonic" catchup-days="14" tvg-id="НТВ", НТВ
+#EXTGRP:Информационные
+http://cdn.admuspeh.my/8003/video.m3u8?token=adpwFr4Pwf3yr53j
 
 #EXTINF:-1 tvg-id="viju TV1000 HD" tvg-name="viju TV1000 HD" tvg-logo="https://m3u.admuspeh.my/icon/Viju%20TV1000%20HD.png" group-title="Киноканалы",viju TV1000 HD
 http://cdn.admuspeh.my/8048/video.m3u8?token=adpwFr4Pwf3yr53j
